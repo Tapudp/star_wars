@@ -1,0 +1,16 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "A basic movie app for star wars fans",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divyesh Parmar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
